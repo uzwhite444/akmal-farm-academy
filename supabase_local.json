@@ -1,0 +1,39 @@
+{
+  "site_content": [
+    {
+      "id": 1,
+      "data": {
+        "hero": {
+          "title_uz": "AKMAL FARM ACADEMY",
+          "title_ru": "AKMAL FARM ACADEMY",
+          "lead_uz": "Hurmatli mehmon! Sizni «Akmal Farm Academy»ning yangi Gʻishtxona filiali tantanali ochilish marosimiga taklif etamiz.",
+          "lead_ru": "Уважаемый гость! Приглашаем Вас на торжественное открытие нового филиала «Akmal Farm Academy» (Ғиштхона филиали)."
+        },
+        "event": {
+          "location_name": "Ғиштхона филиали",
+          "date_uz": "7-sentabr 2026",
+          "date_ru": "7 сентября 2026",
+          "time_uz": "soat 14:00",
+          "time_ru": "14:00",
+          "countdown_target_iso": "2026-09-07T14:00:00+05:00",
+          "address_uz": "Andijon shahar, Milliy Tiklanish koʻchasi, 77-uy. Moʻljal: 42-maktab koʻchasining boshiga yetmay va 1-damas yoʻnalishida. Ish vaqti: 08:00 - 00:00 (dam olish kunlarisiz).",
+          "address_ru": "г. Андижан, ул. Миллий Тикланиш, д. 77. Ориентир: недоезжая начала улицы 42-й школы, на пути 1-го дамаса. Время работы: 08:00 - 00:00 (без выходных).",
+          "map_url": "https://maps.google.com/maps?q=40.778966,72.376469&ll=40.778966,72.376469&z=16"
+        },
+        "footer": {
+          "sign_uz": "HURMAT BILAN, AKMAL FARM ACADEMY",
+          "sign_ru": "С уважением, AKMAL FARM ACADEMY",
+          "phone": "+998-91-290-88-00",
+          "site": "akmalfarm.uz"
+        },
+        "meta": {
+          "page_title": "Akmal Farm Academy — Taklifnoma"
+        }
+      },
+      "updated_at": "2026-09-05T21:15:42.247Z",
+      "updated_by": "seed"
+    }
+  ],
+  "rsvps": [],
+  "admin_login_attempts": []
+}

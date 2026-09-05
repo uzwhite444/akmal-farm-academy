@@ -1,0 +1,16 @@
+{
+  "name": "akmal-farm-taklifnoma",
+  "version": "1.0.0",
+  "description": "Akmal Farm Taklifnoma - taklifnoma va admin panel",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "build": "echo 'No compilation needed'",
+    "lint": "echo 'No linting tool configured'"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
